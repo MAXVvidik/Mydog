@@ -16,7 +16,7 @@ public class Main {
         boolean continueCreating = true;
 
         while (continueCreating) {
-            // Запрашиваем у пользователя данные о собаке
+            // Запрашиваем у пользователя данные о собак
             System.out.print("Введите имя собаки: ");
             String name = scanner.nextLine();
 
